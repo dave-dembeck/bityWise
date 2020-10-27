@@ -1,0 +1,2 @@
+# bityWise
+Javascript bitwise array
